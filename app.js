@@ -1,6 +1,6 @@
 // Deploy Code.gs from this package as a Google Apps Script Web App.
 // Paste its published URL ending in /exec below, then publish these frontend files to GitHub Pages.
-const APP_SCRIPT_URL = 'PASTE_YOUR_APPS_SCRIPT_EXEC_URL_HERE';
+const APP_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyizQ72PKWFRAxUa-WqFiyWm-DMvRUz2Vi8aTxv8lCRnNPjvnBoesxJH2wPXoV347Q3/exec';
 
 let allMessages = [];
 let activeProject = 'All';
